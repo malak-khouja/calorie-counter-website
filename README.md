@@ -1,7 +1,3 @@
-Got it! Here's your README file with proper sectioning, different text sizes, and clear formatting:
-
----
-
 # 📌 **Calorie Counter Web App**  
 
 ## 📝 **Description**  
@@ -82,7 +78,3 @@ This project is licensed under the **MIT License**.
 
 ## 👤 **Author**  
 🔗 [**Malak Khouja**](https://github.com/malakkhouja)  
-
----
-
-Now your README file has clear size differences, sections, and formatting. Let me know if you want any changes! 🚀🔥
